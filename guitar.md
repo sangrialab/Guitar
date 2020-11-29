@@ -1,5 +1,5 @@
 ---
-typora-root-url: ./pic
+ typora-root-url: ./pic
 ---
 
  
@@ -181,4 +181,53 @@ C和弦
 ### 十五种连接方式
 
 1.  C <-----> D<sub>M</sub>      （ C - D<sub>M</sub> -C ）
+2.  C <-----> E<sub>M</sub>       （ C - E<sub>M</sub> -C ）
+3.  C <-----> F          （ C - F - C ）
+4.  C <-----> G         （ C - G - C ）
+5.  C <-----> A<sub>M</sub>        （ C - A<sub>M</sub> -C ）
+6.  D<sub>M</sub> <-----> E<sub>M</sub>      （ D<sub>M</sub> - E<sub>M</sub> -D<sub>M</sub> ）
+7.  D<sub>M</sub> <-----> F        （D<sub>M</sub> - F - D<sub>M</sub> ）
+8.  D<sub>M</sub> <-----> G        （D<sub>M</sub> - G - D<sub>M</sub> ）
+9.  D<sub>M</sub> <-----> A<sub>M</sub>      （D<sub>M</sub> - A<sub>M</sub> -  D<sub>M</sub> ）
+10.  E<sub>M</sub> <-----> F          （E<sub>M</sub> - F - E<sub>M</sub> ）  
+11.  E<sub>M</sub> <-----> G          （E<sub>M</sub> - G - E<sub>M</sub> ）
+12.  E<sub>M</sub> <-----> A<sub>M</sub>      （ E<sub>M</sub> - A<sub>M</sub> -E<sub>M</sub> ）
+13.  F <-----> G           （F - G - F）
+14.  F <-----> A<sub>M</sub>        （ F - A<sub>M</sub> -F ）
+15.  G<-----> A<sub>M</sub>           （G - A<sub>M</sub> - G）
 
+
+
+## Lession9
+
+休止符
+
+![image-20201129202829383](/image-20201129202829383.png)
+
+
+
+### 新长征路上的摇滚
+
+![image-20201129204122759](/image-20201129204122759.png)
+
+![image-20201129204149922](/image-20201129204149922.png)
+
+
+
+## Lession10
+
+连音符号/延音线
+
+![image-20201129211031305](/image-20201129211031305.png)
+
+### 滴答
+
+![image-20201129211805436](/image-20201129211805436.png)
+
+ 
+
+## Lession11
+
+### 滴答 弹唱
+
+![image-20201129221248959](/image-20201129221248959.png)
